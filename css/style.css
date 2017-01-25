@@ -1,7 +1,7 @@
 body {
 	font-family: 'Sans Narrow', sans-serif;
 	font-size: 0.875em;
-	line-height: ;
+	line-height: 1.5em;
 	font-weight: bold;
 	color: #000;
 }
@@ -9,7 +9,7 @@ body {
 .features-name {
 	font-family: 'Sans Narrow', sans-serif;
 	font-size: 1.875em;
-	line-height: ;
+	line-height: 2.625em;
 	font-weight: bold;
 	text-transform: uppercase;
 }
@@ -17,6 +17,6 @@ body {
 .main-navigation ul > li {
 	font-family: 'Sans Narrow', sans-serif;
 	font-size: 1em;
-	line-height: ;
+	line-height: 1.25em;
 	font-weight: bold;
 }
